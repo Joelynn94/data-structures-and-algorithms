@@ -1,3 +1,3 @@
 ## Big O
 
-- When an input grow larger, how much does the algorithm slow down
+- When an input grows larger, how much does the algorithm slow down
